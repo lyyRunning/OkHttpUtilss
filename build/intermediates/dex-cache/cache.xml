@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_43f24fb440ea8d26e87024d2cf21a10a3b00614d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_435fca7047147e961e875dc1e680567cf9d9b7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_b601ce22340a7531e7e3ba090998dcb5aa051e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_ea37e151220f168baad3376b729d22d481d07326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/okhttp-3.4.1_2289f97e495b0193676537b8ca954955a33bfdb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/okio-1.9.0_7bb124b2131c2a5b6adfc24a44b46150a1bd9180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_be235d5a84eae80c75f09e46335869971e97d156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/OkHttpUtils-master/OkhttpUtils/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="728073a250c888877eb51a2ed780c7c385ba800a">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/OkHttpUtils-master-OkhttpUtils-unspecified_3218bd83943b6ca1068bbb6e93acb9b1661fa037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/luo/Downloads/OkHttpUtils-master/sampleokhttp/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_cba323c63b49cce9cd723d64b9f1ba11a1537a14.jar" />
+    </item>
+
+</items>
